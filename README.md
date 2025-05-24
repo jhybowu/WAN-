@@ -1,10 +1,18 @@
 
 Project Title:
 Design and Implementation of a Secure WAN Connection Between Ghana and Cape Verde Branch
-Offices
+Offices 
+
+
+
 Project Objective:
+
 To design and simulate a secure Wide Area Network (WAN) connection between two branch offices
 — the Ghana Office and the Cape Verde Office - using Cisco Packet Tracer. The aim is to ensure connectivity for essential services (HTTP and ICMP) while strictly restricting all other traffic, using appropriate IP addressing and access control measures.
+
+
+
+
 Project Requirements:
 1. Topology Design:
 o Create two separate branch networks:

@@ -1,4 +1,4 @@
-Networking Project: Secure Inter-Branch Connectivity Using Cisco Packet Tracer
+
 Project Title:
 Design and Implementation of a Secure WAN Connection Between Ghana and Cape Verde Branch
 Offices
